@@ -1,0 +1,28 @@
+{
+  "name": "codingyoutubechannelsapi",
+  "version": "1.0.0",
+  "description": "An API for Coding YouTube Channels",
+  "main": "coding-youtube-channels-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estesclan/codingYouTubeChannelsAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estesclan/codingYouTubeChannelsAPI/issues"
+  },
+  "homepage": "https://github.com/estesclan/codingYouTubeChannelsAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.5",
+    "pouchdb-adapter-http": "^6.4.3",
+    "pouchdb-core": "^6.4.3",
+    "ramda": "^0.25.0"
+  }
+}
